@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StefanSirkovic
+- 👋 Hi, I’m Stefan Sirkovic
 - 👀 I’m interested in creative web applications and building innovative software solutions.
 - 🌱 I’m currently learning advanced web development frameworks, modern C++ programming techniques, and how to integrate AI into software solutions.
 - 💞️ I’m looking to collaborate on cutting-edge web development projects.
