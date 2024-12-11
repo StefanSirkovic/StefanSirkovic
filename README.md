@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan Sirkovic
-- I’m currently studying Software Engineering, focusing on advanced web development frameworks, modern Java programming techniques, and AI integration in software solutions.
+- I’m currently studying Software Engineering and AI integration in software solutions.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/stefansirkovic/)
 
 
