@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Stefan Sirkovic
-- I’m currently studying Software Engineering and AI integration in software solutions.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/stefansirkovic/)
 
 
