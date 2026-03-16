@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan Sirkovic</h1>
-<h3 align="center">A final-year student specializing in software engineering</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working with **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
